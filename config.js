@@ -28,8 +28,8 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "Gaano kalaki yung pagmamahal mo sakin?",                          // For the love meter
+            startText: "Ganto",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "Mwamwaaa love mo talaga ako ng madami :>> 🥰💝",  // Shows when they go past 5000%
+        high: "Yayyy love mo! :>> 💝",              // Shows when they go past 1000%
+        normal: "Damihan mo pa 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
